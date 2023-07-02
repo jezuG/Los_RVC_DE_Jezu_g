@@ -1,0 +1,5 @@
+Para usarlo de manera local solo debes descargar el archivo.zip y poner los archivos en el sitio donde corresponde.
+
+
+Para el colab.
+Lo descargas y lo sube a tu drive y ya está.
